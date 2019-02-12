@@ -11,7 +11,7 @@
 </head>
 <body>
 	<h2>Hello! ${name}</h2>
-	<div>JSP version22</div>
+	<div>JSP version</div>
 	
 	 <div class="page-header">
         <h1>Buttons</h1>
